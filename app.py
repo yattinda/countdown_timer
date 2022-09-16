@@ -2,6 +2,8 @@ import streamlit as st
 from counter import count
 import time
 
+st.title('n日後に死ぬワニ')
+
 with st.sidebar:
     input_date = st.date_input("when is the target date?")
     

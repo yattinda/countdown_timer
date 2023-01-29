@@ -7,6 +7,7 @@ name = "pypi"
 streamlit = "*"
 workdays = "*"
 flake8 = "*"
+jpholiday = "*"
 
 [dev-packages]
 

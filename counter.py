@@ -1,6 +1,7 @@
 from datetime import datetime, time
 import workdays
 
+
 def count(grad_time):
     grad_time = datetime.combine(grad_time, time(0, 0, 0))
     now_time = datetime.utcnow()

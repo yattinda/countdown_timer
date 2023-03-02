@@ -17,3 +17,5 @@ while (True):
     display = f'{d:02} days {h:02}: {m:02} : {s:02}'
     count_area.title(display)
     time.sleep(1)
+
+print("ahi")

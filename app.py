@@ -2,6 +2,7 @@ from datetime import datetime
 import streamlit as st
 from counter import count
 import time
+import streamlit_toggle as tog
 
 st.title('n日後に死ぬワニ')
 
